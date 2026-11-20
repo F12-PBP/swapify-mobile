@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../../widgets/placeholder_page.dart';
-import '../reviews/reviews_page.dart';
+import 'package:swapify_mobile/core/widgets/placeholder_page.dart';
+import 'package:swapify_mobile/features/reviews/screens/reviews_page.dart';
 
 class ProfilePage extends StatelessWidget {
   const ProfilePage({super.key});

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../widgets/placeholder_page.dart';
+import 'package:swapify_mobile/core/widgets/placeholder_page.dart';
 
 class ChatPage extends StatelessWidget {
   const ChatPage({super.key});

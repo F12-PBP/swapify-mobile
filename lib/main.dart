@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'screens/navigation_shell.dart';
-import 'theme/app_theme.dart';
+import 'package:swapify_mobile/core/navigation/navigation_shell.dart';
+import 'package:swapify_mobile/core/theme/app_theme.dart';
 
 void main() => runApp(const SwapifyApp());
 

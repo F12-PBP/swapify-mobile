@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../widgets/placeholder_page.dart';
+import 'package:swapify_mobile/core/widgets/placeholder_page.dart';
 
 class SwapsPage extends StatelessWidget {
   const SwapsPage({super.key});
