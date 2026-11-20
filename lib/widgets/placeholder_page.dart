@@ -45,11 +45,11 @@ class PlaceholderPage extends StatelessWidget {
                 children: [
                   CircleAvatar(
                     radius: 36,
-                    backgroundColor: theme.colorScheme.secondaryContainer,
+                    backgroundColor: theme.colorScheme.primaryContainer,
                     child: Icon(
                       icon,
                       size: 34,
-                      color: theme.colorScheme.onSecondaryContainer,
+                      color: theme.colorScheme.onPrimaryContainer,
                     ),
                   ),
                   const SizedBox(height: 20),
